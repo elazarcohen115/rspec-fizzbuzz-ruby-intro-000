@@ -10,4 +10,4 @@ def fizzbuzz (num)
     return "Buzz"
   else
     return "nil"
-  
+end
